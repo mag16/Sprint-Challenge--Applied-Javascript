@@ -4,7 +4,7 @@ class TabCard {
     this.element = $(element);
   }
   selectCard() {
-  // show the card.  Instead of using .show tring .fadeToogle.
+  // show the card.  Instead of using .show used .fadeToogle.
     this.element.fadeToggle();
 
   }
