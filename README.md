@@ -1,3 +1,6 @@
+https://mag16.github.io/Sprint-Challenge--Applied-Javascript/.
+
+
 # Sprint-Challenge Applied Javascript
 
 We've covered a lot this week. We've learned how to plug Javascript up to our HTML/CSS static pages and create dynamic content. We've learned about events and how to listne for, and act on, them. We learned about jQuery and how this library can cut our development time down and provide tons of useful methods for extending the functionality of the DOM. And finally, we learned about component architecture and how to build compoennts that share functionality and styling with many elements. In this Sprint Challenge we will be utilizing all of the above. 
